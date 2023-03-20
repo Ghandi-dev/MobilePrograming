@@ -1,3 +1,6 @@
+// Nama : Sonnya Ghandi
+// Kelas : Informatika Malam A
+// NIM : 201351131
 function rangeWithStep(startNum, finishNum, step) {
   var array = [];
   var i = 0;

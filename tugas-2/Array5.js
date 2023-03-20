@@ -1,3 +1,6 @@
+// Nama : Sonnya Ghandi
+// Kelas : Informatika Malam A
+// NIM : 201351131
 function balikKata(kata) {
   let kebalikan = "";
   for (let char of kata) {

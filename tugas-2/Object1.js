@@ -1,3 +1,6 @@
+// Nama : Sonnya Ghandi
+// Kelas : Informatika Malam A
+// NIM : 201351131
 function arrayToObject(input) {
   let object = {};
   let i = 1;

@@ -1,3 +1,6 @@
+// Nama : Sonnya Ghandi
+// Kelas : Informatika Malam A
+// NIM : 201351131
 function shoppingTime(memberId, money) {
   var barang = {
     "Sepatu Stacattu": 1500000,

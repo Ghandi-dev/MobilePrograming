@@ -1,3 +1,6 @@
+// Nama : Sonnya Ghandi
+// Kelas : Informatika Malam A
+// NIM : 201351131
 function sum(startNum, finishNum, step) {
   var sum = 0;
   var i = 0;

@@ -1,3 +1,6 @@
+// Nama : Sonnya Ghandi
+// Kelas : Informatika Malam A
+// NIM : 201351131
 function dataHandling(input) {
     input.splice(4, 1, "Pria", "SMA Internasional Metro")
     console.log(input)

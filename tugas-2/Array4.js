@@ -1,3 +1,6 @@
+// Nama : Sonnya Ghandi
+// Kelas : Informatika Malam A
+// NIM : 201351131
 function dataHandling(input) {
   for (let i = 0; i < input.length; i++) {
     console.log(`Nomor ID      : ${input[i][0]}`);

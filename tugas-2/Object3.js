@@ -1,3 +1,6 @@
+// Nama : Sonnya Ghandi
+// Kelas : Informatika Malam A
+// NIM : 201351131
 function naikAngkot(arrPenumpang) {
   rute = ["A", "B", "C", "D", "E", "F"];
   var result = [];
