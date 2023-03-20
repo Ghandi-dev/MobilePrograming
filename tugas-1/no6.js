@@ -1,5 +1,5 @@
 var tanggal = 17;
-var bulan = 'String';
+var bulan = 8;
 var tahun = 1945;
 
 switch (bulan) {
